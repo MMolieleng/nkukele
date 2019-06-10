@@ -1,2 +1,0 @@
-# nkukele
-Delivery app
